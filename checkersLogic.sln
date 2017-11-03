@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "checkersLogic", "checkersLogic\checkersLogic.vcxproj", "{778E90E4-2AFC-4B7F-AE43-7BAE28654CE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4FA13C38-1499-4793-A8CA-9EB7B60D061A}"
+	ProjectSection(SolutionItems) = preProject
+		Readme-Logic.txt = Readme-Logic.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{778E90E4-2AFC-4B7F-AE43-7BAE28654CE7}.Debug|x64.ActiveCfg = Debug|x64
+		{778E90E4-2AFC-4B7F-AE43-7BAE28654CE7}.Debug|x64.Build.0 = Debug|x64
+		{778E90E4-2AFC-4B7F-AE43-7BAE28654CE7}.Debug|x86.ActiveCfg = Debug|Win32
+		{778E90E4-2AFC-4B7F-AE43-7BAE28654CE7}.Debug|x86.Build.0 = Debug|Win32
+		{778E90E4-2AFC-4B7F-AE43-7BAE28654CE7}.Release|x64.ActiveCfg = Release|x64
+		{778E90E4-2AFC-4B7F-AE43-7BAE28654CE7}.Release|x64.Build.0 = Release|x64
+		{778E90E4-2AFC-4B7F-AE43-7BAE28654CE7}.Release|x86.ActiveCfg = Release|Win32
+		{778E90E4-2AFC-4B7F-AE43-7BAE28654CE7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {851D0AB0-20B7-44F8-9F26-92CE6AFF70CD}
+	EndGlobalSection
+EndGlobal
