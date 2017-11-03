@@ -16,6 +16,8 @@ H|_|_|_|_|_|_|_|_|
 
 The board vector for the board is set up in an (X,Y) type orientation, so basically the Y axis is in reverse (hindsight terrible implimentation )
 
+Input:
+	sample input "G1-F2"
 
 Pieces:
 	The pieces were pretty simple to do. All it required was a class that contained the color, if its a king or not, and if it was jumped or not 
