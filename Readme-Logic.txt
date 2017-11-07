@@ -14,10 +14,16 @@ G|_|_|_|_|_|_|_|_|
 H|_|_|_|_|_|_|_|_|
   1 2 3 4 5 6 7 8
 
+  red at the bottom, black at the top
+
 The board vector for the board is set up in an (X,Y) type orientation, so basically the Y axis is in reverse (hindsight terrible implimentation )
 
 Input:
 	sample input "G1-F2"
+	will also accept:
+		"g1-f2"
+		"g 1 - f 2"
+		and other variations 
 
 Pieces:
 	The pieces were pretty simple to do. All it required was a class that contained the color, if its a king or not, and if it was jumped or not 
@@ -41,3 +47,4 @@ Board:
 		by default the invalid pieces are of color "null" and of color "white". "white" is a valid move and "null" is not. Then the colors are filled in with setRed
 		setBlack.
 Moves:
+	
