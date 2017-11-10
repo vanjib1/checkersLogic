@@ -66,6 +66,11 @@ Moves:
 			checks if there is a piece on your side that can jump
 		void move(std::vector<std::vector<checkerPiece>>& board, std::vector<int> move)
 			moves the selected piece to the selected new square
-		
+		void jump(std::vector<std::vector<checkerPiece>>& board, std::vector<int> move)
+			jumps a piece (used in the move function)
+		void switchPlayingColor()
+			self explanitory
+		std::string isThereAWinner()
+			returns red if red won, black if black won, and an empty string if there is no winner yet
 
 			
