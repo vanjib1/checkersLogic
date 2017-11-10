@@ -1,5 +1,5 @@
 ﻿  checkersLogic.cpp
-c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(120): warning C4018: '<': signed/unsigned mismatch
-c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(122): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
-c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(143): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(491): warning C4018: '<': signed/unsigned mismatch
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(493): warning C4018: '<': signed/unsigned mismatch
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(549): warning C4018: '<': signed/unsigned mismatch
   checkersLogic.vcxproj -> C:\Users\vanji\OneDrive\Documents\Visual Studio 2017\Projects\checkersLogic\Debug\checkersLogic.exe
