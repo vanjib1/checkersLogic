@@ -1,7 +1,15 @@
 ﻿  checkersLogic.cpp
-c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(480): warning C4018: '<': signed/unsigned mismatch
-c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(482): warning C4018: '<': signed/unsigned mismatch
-c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(538): warning C4018: '<': signed/unsigned mismatch
-c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(624): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(532): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(553): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(564): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(569): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(580): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(585): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(614): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(619): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
 c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(628): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(633): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(685): warning C4018: '<': signed/unsigned mismatch
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(687): warning C4018: '<': signed/unsigned mismatch
+c:\users\vanji\onedrive\documents\visual studio 2017\projects\checkerslogic\checkerslogic\checkerslogic.cpp(743): warning C4018: '<': signed/unsigned mismatch
   checkersLogic.vcxproj -> C:\Users\vanji\OneDrive\Documents\Visual Studio 2017\Projects\checkersLogic\Debug\checkersLogic.exe
